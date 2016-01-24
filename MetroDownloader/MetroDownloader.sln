@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroDownloader", "MetroDownloader\MetroDownloader.csproj", "{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0717E41B-F194-4607-8AF0-8B47162940EA}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|ARM.Build.0 = Debug|ARM
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|ARM.Deploy.0 = Debug|ARM
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|x64.ActiveCfg = Debug|x64
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|x64.Build.0 = Debug|x64
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|x64.Deploy.0 = Debug|x64
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|x86.ActiveCfg = Debug|x86
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|x86.Build.0 = Debug|x86
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Debug|x86.Deploy.0 = Debug|x86
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|ARM.ActiveCfg = Release|ARM
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|ARM.Build.0 = Release|ARM
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|ARM.Deploy.0 = Release|ARM
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|x64.ActiveCfg = Release|x64
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|x64.Build.0 = Release|x64
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|x64.Deploy.0 = Release|x64
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|x86.ActiveCfg = Release|x86
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|x86.Build.0 = Release|x86
+		{C366BFB8-FE4D-4F3D-92D4-136BA4097FEF}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

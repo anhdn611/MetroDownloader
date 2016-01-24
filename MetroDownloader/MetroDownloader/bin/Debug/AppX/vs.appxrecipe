@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NGOCANH</Machine>
+    <WindowsUser>co do</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BE1C55E44EE09A4AC2F2B94FAC6EC920ECA8403C19F6511535D66E38D5BC83AD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9d6ae57c-619c-4798-a37c-faf85d42a242_1.0.0.0_neutral__18vykenrzwn8g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9d6ae57c-619c-4798-a37c-faf85d42a242_18vykenrzwn8g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9d6ae57c-619c-4798-a37c-faf85d42a242</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=co do</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Project\MetroDownloader\MetroDownloader\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-29T03:01:24.077</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\bin\Debug\MetroDownloader.exe">
+      <PackagePath>MetroDownloader.exe</PackagePath>
+      <Modified>2014-04-29T03:24:24.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\bin\Debug\MetroDownloader.pdb">
+      <PackagePath>MetroDownloader.pdb</PackagePath>
+      <Modified>2014-04-29T03:24:24.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+      <Modified>2014-04-29T02:42:39.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.pdb">
+      <PackagePath>HtmlAgilityPack.pdb</PackagePath>
+      <Modified>2014-04-29T02:42:39.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-04-28T14:36:50.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T16:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-04-28T15:43:54.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Project\MetroDownloader\MetroDownloader\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-29T03:01:23.719</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
